@@ -11,12 +11,6 @@ Full stack clone of Web-based task-and time-management application Remember the 
 - HTML
 - CSS
 
-### User Story
-
-### Wireframes
-
-### ERD
-
 ### Project Time Frame Given: 10 Days
 
 ### Key Challenges (and Proof of Concept)
