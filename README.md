@@ -18,7 +18,6 @@ Full stack clone of Web-based task-and time-management application Remember the 
 ### ERD
 
 ### Project Time Frame Given: 10 Days
-#### 5/
 
 ### Key Challenges (and Proof of Concept)
 
