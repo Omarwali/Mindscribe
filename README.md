@@ -1,4 +1,4 @@
-# Mindscribe
+# MindScribe
 
 ## Concept
 Full stack clone of web-based task-and time-management application "Remember the milk".
