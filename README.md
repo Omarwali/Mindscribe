@@ -1,7 +1,7 @@
 # Mindscribe
 
 ## Concept
-Full stack clone of Web-based task-and time-management application Remember the milk.
+Full stack clone of web-based task-and time-management application "Remember the milk".
 
 ## Stack
 - PostgreSQL
@@ -16,3 +16,4 @@ Full stack clone of Web-based task-and time-management application Remember the 
 ### Key Challenges (and Proof of Concept)
 
 ### Sources
+https://www.rememberthemilk.com/
