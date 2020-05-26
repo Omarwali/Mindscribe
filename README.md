@@ -1,24 +1,25 @@
-# README
+# Mindscribe
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Concept
+Full stack clone of Web-based task-and time-management application Remember the milk.
 
-Things you may want to cover:
+## Stack
+- PostgreSQL
+- Ruby on Rails
+- React
+- Redux
+- HTML
+- CSS
 
-* Ruby version
+### User Story
 
-* System dependencies
+### Wireframes
 
-* Configuration
+### ERD
 
-* Database creation
+### Project Time Frame Given: 10 Days
+#### 5/
 
-* Database initialization
+### Key Challenges (and Proof of Concept)
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Sources
